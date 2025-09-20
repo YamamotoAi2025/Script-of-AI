@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Exec=python3 /home/pi/show_logo.py
+Hidden=false
+X-GNOME-Autostart-enabled=true
+Name=Show πAI Logo
