@@ -2,7 +2,7 @@ import tkinter as tk
 from PIL import Image, ImageTk
 
 # 画像ファイルのパス
-LOGO_PATH = "/home/pi/logo.png"  # logo.pngを置いた場所
+LOGO_PATH = "https://github.com/YamamotoAi2025/Script-of-AI/blob/main/file_00000000ec8861f7bf20daa1fce08f09.png"  # logo.pngを置いた場所
 
 def main():
     root = tk.Tk()
